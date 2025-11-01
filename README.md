@@ -4,7 +4,7 @@ Frontend Developer | HTML/CSS Engineer | Vue / React Learner
 
 💡 5+ years in web development  
 ⚙️ Focused on responsive layouts, SEO and clean code  
-🚀 Currently learning Vue / React & TypeScript  
+🚀 Currently learning Vue & TypeScript  
 
 ## 🛠 Tech Stack
 HTML5 • CSS3 • Sass • Tailwind • BEM • JS • Git • Figma  
